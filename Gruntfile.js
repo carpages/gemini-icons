@@ -7,7 +7,6 @@ module.exports = function(grunt) {
     font: 'icons',
     styles: '',
     templateOptions: {
-      baseClass: 'icon',
       classPrefix: 'icon--'
     }
   };
@@ -39,7 +38,6 @@ module.exports = function(grunt) {
   });
 
   grunt.loadNpmTasks('grunt-webfont');
-  grunt.loadNpmTasks('grunt-contrib-clean');
 
   grunt.registerTask('default', ['webfont']);
 
