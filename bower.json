@@ -1,0 +1,15 @@
+{
+  "name": "gemini-icons",
+  "authors": [
+    {"name": "Matt Rose", "email": "matt@mattrose.ca"},
+    {"name": "Arley McBlain", "email": "arley@mcblain.ca"}
+  ],
+  "main": [
+    "preview.html"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "gemini-loader": "ssh://git@stash.carpages.ca/gem/gemini-loader.git",
+    "requirejs-plugins": "1.0.x"
+  }
+}
