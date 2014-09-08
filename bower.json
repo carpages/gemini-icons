@@ -7,9 +7,5 @@
   "main": [
     "preview.html"
   ],
-  "ignore": [],
-  "dependencies": {
-    "gemini-loader": "ssh://git@stash.carpages.ca/gem/gemini-loader.git",
-    "requirejs-plugins": "1.0.x"
-  }
+  "ignore": []
 }
