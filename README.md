@@ -26,6 +26,24 @@ A number of SVG icon sets for use with Gemini.
 
 [See the set](https://useiconic.com/icons/)
 
+## Font-Awesome
+
+``font-awesome/``
+
+[See the set](http://fortawesome.github.io/Font-Awesome/)
+
+## Entypo
+
+``entypo/``
+
+[See the set](http://www.entypo.com/)
+
+## Octicons
+
+``octicons/``
+
+[See the set](https://octicons.github.com/)
+
 ## Carpages
 
 ``carpages/``
