@@ -1,3 +1,12 @@
-<svg height="1024" width="1024" xmlns="http://www.w3.org/2000/svg">
-  <path d="M640 768H384V192L128 64h512v192h64V0H0v832l384 192V832h320V512h-64V768zM1024 384L768 192v128H512v128h256v128L1024 384z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>sign-out</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Octicons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sign-out" fill="#000000">
+            <path d="M12,9 L12,7 L8,7 L8,5 L12,5 L12,3 L16,6 L12,9 L12,9 Z M10,12 L6,12 L6,3 L2,1 L10,1 L10,4 L11,4 L11,1 C11,0.45 10.55,0 10,0 L1,0 C0.45,0 0,0.45 0,1 L0,12.38 C0,12.77 0.22,13.11 0.55,13.29 L6,16.01 L6,13 L10,13 C10.55,13 11,12.55 11,12 L11,8 L10,8 L10,12 L10,12 Z" id="Shape"></path>
+        </g>
+    </g>
 </svg>

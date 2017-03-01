@@ -1,3 +1,12 @@
-<svg height="1024" width="896" xmlns="http://www.w3.org/2000/svg">
-  <path d="M896 384l-313.5-40.781L448 64 313.469 343.219 0 384l230.469 208.875L171 895.938l277-148.812 277.062 148.812L665.5 592.875 896 384z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Octicons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star" fill="#000000">
+            <polygon id="Shape" points="14 6 9.1 5.36 7 1 4.9 5.36 0 6 3.6 9.26 2.67 14 7 11.67 11.33 14 10.4 9.26"></polygon>
+        </g>
+    </g>
 </svg>

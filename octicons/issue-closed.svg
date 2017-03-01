@@ -1,3 +1,12 @@
-<svg height="1024" width="1024" xmlns="http://www.w3.org/2000/svg">
-  <path d="M704 316.03099999999995l-96 96L768 576l256-256-96-96L769.25 382.781 704 316.03099999999995zM512 832c-176.781 0-320-143.25-320-320 0-176.781 143.219-320 320-320 88.375 0 168.375 35.844 226.25 93.75l90.562-90.5C747.75 114.125 635.75 64 512 64 264.562 64 64 264.562 64 512c0 247.438 200.562 448 448 448 247.438 0 448-200.562 448-448L759.75 712.25C768.688 701.25 684.75 832 512 832zM576 256H448v320h128V256zM448 768h128V640H448V768z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>issue-closed</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Octicons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="issue-closed" fill="#000000">
+            <path d="M7,10 L9,10 L9,12 L7,12 L7,10 L7,10 Z M9,4 L7,4 L7,9 L9,9 L9,4 L9,4 Z M10.5,5.5 L9.5,6.5 L12,9 L16,4.5 L15,3.5 L12,7 L10.5,5.5 L10.5,5.5 Z M8,13.7 C4.86,13.7 2.3,11.14 2.3,8 C2.3,4.86 4.86,2.3 8,2.3 C9.83,2.3 11.45,3.18 12.5,4.5 L13.42,3.58 C12.14,2 10.19,1 8,1 C4.14,1 1,4.14 1,8 C1,11.86 4.14,15 8,15 C11.86,15 15,11.86 15,8 L13.48,9.52 C12.82,11.93 10.62,13.71 8,13.71 L8,13.7 Z" id="Shape"></path>
+        </g>
+    </g>
 </svg>

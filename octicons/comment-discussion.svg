@@ -1,3 +1,12 @@
-<svg height="1024" width="896" xmlns="http://www.w3.org/2000/svg">
-  <path d="M256 512c0-64 0-192 0-192s-160 0-192 0-64 32-64 64 0 288 0 320 32 64 64 64 64 0 64 0v192l194-192s162 0 192 0 62-32 62-64 0-64 0-64-128 0-192 0-128-64-128-128z m576-384c-32 0-416 0-448 0s-64 32-64 64 0 288 0 320 32 64 64 64 190 0 190 0l194 192v-192s32 0 64 0 64-32 64-64 0-288 0-320-32-64-64-64z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>comment-discussion</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Octicons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="comment-discussion" fill="#000000">
+            <path d="M15,1 L6,1 C5.45,1 5,1.45 5,2 L5,4 L1,4 C0.45,4 0,4.45 0,5 L0,11 C0,11.55 0.45,12 1,12 L2,12 L2,15 L5,12 L9,12 C9.55,12 10,11.55 10,11 L10,9 L11,9 L14,12 L14,9 L15,9 C15.55,9 16,8.55 16,8 L16,2 C16,1.45 15.55,1 15,1 L15,1 Z M9,11 L4.5,11 L3,12.5 L3,11 L1,11 L1,5 L5,5 L5,8 C5,8.55 5.45,9 6,9 L9,9 L9,11 L9,11 Z M15,8 L13,8 L13,9.5 L11.5,8 L6,8 L6,2 L15,2 L15,8 L15,8 Z" id="Shape"></path>
+        </g>
+    </g>
 </svg>

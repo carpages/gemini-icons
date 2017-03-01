@@ -1,3 +1,12 @@
-<svg height="1024" width="1024" xmlns="http://www.w3.org/2000/svg">
-  <path d="M704 256H512v640h192V256zM960 448H768v448h192V448zM64 960V832h64v-64H64V640h64v-64H64V448h64v-64H64V256h64v-64H64V64h64V0H0v1024h1024v-64H64zM448 576H256v320h192V576z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>graph</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Octicons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="graph" fill="#000000">
+            <path d="M16,14 L16,15 L0,15 L0,0 L1,0 L1,14 L16,14 L16,14 Z M5,13 L3,13 L3,8 L5,8 L5,13 L5,13 Z M9,13 L7,13 L7,3 L9,3 L9,13 L9,13 Z M13,13 L11,13 L11,6 L13,6 L13,13 L13,13 Z" id="Shape"></path>
+        </g>
+    </g>
 </svg>

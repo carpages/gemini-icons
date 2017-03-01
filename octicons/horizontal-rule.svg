@@ -1,3 +1,12 @@
-<svg height="1024" width="639.875" xmlns="http://www.w3.org/2000/svg">
-  <path d="M63.938 448h128v128h64V192.062h-64V384h-128V192.062H0V576h63.938V448zM639.875 576V448h-63.938v128H639.875zM639.875 384V256.062h-63.938V384H639.875zM447.938 384V256.062h128v-64h-192V576h64V448h128v-64H447.938zM0 832h639.875V704H0V832z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>horizontal-rule</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Octicons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="horizontal-rule" fill="#000000">
+            <path d="M1,7 L3,7 L3,9 L4,9 L4,3 L3,3 L3,6 L1,6 L1,3 L0,3 L0,9 L1,9 L1,7 L1,7 Z M10,9 L10,7 L9,7 L9,9 L10,9 L10,9 Z M10,6 L10,4 L9,4 L9,6 L10,6 L10,6 Z M7,6 L7,4 L9,4 L9,3 L6,3 L6,9 L7,9 L7,7 L9,7 L9,6 L7,6 L7,6 Z M0,13 L10,13 L10,11 L0,11 L0,13 L0,13 Z" id="Shape"></path>
+        </g>
+    </g>
 </svg>

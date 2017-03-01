@@ -1,3 +1,12 @@
-<svg height="1024" width="383.875" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0.062 128.25L383.812 512 0.062 895.75V128.25z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="16px" viewBox="0 0 6 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>triangle-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Octicons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="triangle-right" fill="#000000">
+            <polygon id="Shape" points="0 14 6 8 0 2"></polygon>
+        </g>
+    </g>
 </svg>
